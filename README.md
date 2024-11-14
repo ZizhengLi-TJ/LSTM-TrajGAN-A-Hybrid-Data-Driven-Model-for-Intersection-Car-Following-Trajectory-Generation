@@ -1,0 +1,1 @@
+# LSTM-TrajGAN-A-Hybrid-Data-Driven-Model-for-Intersection-Car-Following-Trajectory-Generation
